@@ -3,8 +3,11 @@ Bat based fast crash program can quickly lead to memory overflow.
 
 ## Project structure
 ┬ CrashAssistant
+
 ├ [CrashAssistant.bat](https://github.com/BatTechnology/CrashAssistant/blob/main/CrashAssistant.bat)
+
 ├ LICENCE
+
 └ README.md
 
 ## Use guide
